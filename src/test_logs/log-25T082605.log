@@ -1,0 +1,4 @@
+08:26:05.906 [main] INFO  demoqa.core.TestBase -- Test is started: [practiceFormParametersTest]
+08:26:12.705 [main] ERROR demoqa.core.TestBase -- Test is FAILED: [practiceFormParametersTest], Screenshot: [C:\Users\PORTISHEAD\Desktop\52QA\today_demoqa\src\test_screenshots\screen-1740468372693.png]
+08:26:13.203 [main] INFO  demoqa.core.TestBase -- Test is started: [practiceFormTest]
+08:26:19.643 [main] ERROR demoqa.core.TestBase -- Test is FAILED: [practiceFormTest], Screenshot: [C:\Users\PORTISHEAD\Desktop\52QA\today_demoqa\src\test_screenshots\screen-1740468379642.png]

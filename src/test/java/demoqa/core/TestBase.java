@@ -19,7 +19,7 @@ public class TestBase {
         app.init();
     }
 
-    @AfterMethod(enabled = false)
+    @AfterMethod(enabled = true)
     public void tearDown(Method method, ITestResult result) {
         if (result.isSuccess()) {
             logger.info("Test is PASSED: [" + method.getName() + "]");
